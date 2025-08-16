@@ -1,0 +1,90 @@
+[
+  {
+    "title": "MicroStrategy Bitcoin Strategy: A Pioneer's Five-Year Journey",
+    "slug": "microstrategy-bitcoin-strategy-five-year-journey",
+    "publishedat": "2025-05-15",
+    "meta_description": "Explore MicroStrategy's groundbreaking Bitcoin strategy over five years, its continuous accumulation, and how it redefined corporate treasury management.",
+    "lsi_keywords": [
+      "Corporate Bitcoin adoption",
+      "Bitcoin treasury strategy",
+      "MicroStrategy holdings"
+    ],
+    "tags": [
+      "bitcoin",
+      "corporate-finance",
+      "digital-assets",
+      "treasury-management",
+      "microstrategy",
+      "fresh"
+    ],
+    "tagline": "How one bold bet reshaped corporate finance.",
+    "faq": [],
+    "schema_ld": {},
+    "introduction": "MicroStrategy's decision to adopt Bitcoin as a treasury reserve asset has influenced corporate finance discourse.",
+    "section1title": "Why Bitcoin?",
+    "section1text": "The move was framed as a hedge against inflation and currency debasement.",
+    "section2title": "Execution",
+    "section2text": "Consistent dollar-cost averaging through market cycles.",
+    "section3title": "Market Impact",
+    "section3text": "The strategy catalyzed broader institutional interest.",
+    "conclusion": "The approach highlights conviction-driven treasury management.",
+    "meta": {
+      "author": "NewsDailly",
+      "read_time": "4 minutes"
+    },
+    "category": "Fresh Hitters"
+  },
+  {
+    "title": "New Airdrop Season: How to Qualify Safely",
+    "slug": "new-airdrop-season-how-to-qualify-safely",
+    "publishedat": "2025-04-22",
+    "meta_description": "Learn safe playbooks to farm airdrops without exposing your wallet to unnecessary risk.",
+    "lsi_keywords": [
+      "airdrop strategies",
+      "crypto rewards",
+      "wallet safety"
+    ],
+    "tags": [
+      "airdrop",
+      "safety",
+      "wallets"
+    ],
+    "tagline": "Farm smarter, not riskier.",
+    "faq": [],
+    "schema_ld": {},
+    "introduction": "Airdrop hunting can be lucrative if done prudently.",
+    "section1title": "Preparation",
+    "section1text": "Segment wallets and use hardware devices.",
+    "section2title": "Activity",
+    "section2text": "Focus on credible ecosystems with real usage.",
+    "section3title": "Post-Drop",
+    "section3text": "Beware phishing during claim windows.",
+    "conclusion": "Consistency and caution pay off.",
+    "meta": {
+      "author": "NewsDailly"
+    },
+    "category": "Airdrop Alerts"
+  },
+  {
+    "title": "Phishing Scam Targets NFT Traders with Fake Claim Pages",
+    "slug": "phishing-scam-targets-nft-traders-fake-claim",
+    "publishedat": "2025-03-18",
+    "meta_description": "A sophisticated phishing ring lures NFT traders to fake claim portals. Learn how to spot the red flags.",
+    "tags": [
+      "scam",
+      "phishing",
+      "nft"
+    ],
+    "tagline": "Don\u2019t connect \u2014 verify first.",
+    "introduction": "Fake claim pages are back with better UI and more believable flows.",
+    "section1title": "How It Works",
+    "section1text": "Attackers copy official websites and inject malicious approvals.",
+    "section2title": "Defense",
+    "section2text": "Use read-only wallets for exploration and revoke approvals regularly.",
+    "conclusion": "Stay skeptical of urgent CT threads.",
+    "meta": {
+      "author": "NewsDailly"
+    },
+    "category": "Scam Alerts"
+  }
+]
